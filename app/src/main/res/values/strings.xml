@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Proje_Deneme_2</string>
+
+    <string-array name="Ev_Basliklari">
+
+        <item>konut 1</item>
+        <item>konut 2</item>
+        <item>konut 3</item>
+        <item>konut 4</item>
+        <item>konut 5</item>
+        <item>konut 6</item>
+        <item>konut 7</item>
+        <item>konut 8</item>
+        <item>konut 9</item>
+        <item>konut 10</item>
+        <item>konut 11</item>
+
+    </string-array>
+
+    <string-array name="Ev_Aciklamalari">
+
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+        <item>İlan açıklaması</item>
+
+    </string-array>
+
+
+</resources>
